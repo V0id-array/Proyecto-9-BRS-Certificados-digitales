@@ -150,7 +150,7 @@ Se aplicaron los siguientes cambios para mejorar la seguridad del servidor SSH:
     - Nivel de registro detallado (`LogLevel VERBOSE`).
 
 <br/><br/><br/>
-# PARTE1:prueba-de-conexión:
+# PARTE1:prueba de conexión:
 ![conexion_ssh.gif](_resources/conexion_ssh.gif)
         
 
