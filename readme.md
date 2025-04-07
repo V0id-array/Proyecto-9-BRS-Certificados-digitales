@@ -10,6 +10,7 @@ Por: Félix Sánchez González
     - [Generación de Clave SSH](#generación-de-clave-ssh)
     - [Configuración del Cliente SSH](#configuración-del-cliente-ssh)
     - [Copia de Clave SSH al Servidor](#copia-de-clave-ssh-al-servidor)
+    - [PARTE 1: prueba de conexión](#PARTE-1:-prueba-de-conexión:)
   - [Configuración Segura de SSH](#configuración-segura-de-ssh)
     - [Opciones de Configuración](#opciones-de-configuración)
     - [Cambios de Configuración Aplicados](#cambios-de-configuración-aplicados)
@@ -148,7 +149,8 @@ Se aplicaron los siguientes cambios para mejorar la seguridad del servidor SSH:
         
     - Nivel de registro detallado (`LogLevel VERBOSE`).
 
-<br/><br/><br/>Por ultimo se hace una prueba:![conexion_ssh.gif](_resources/conexion_ssh.gif)
+<br/><br/><br/>
+# PARTE 1: prueba de conexión:![conexion_ssh.gif](_resources/conexion_ssh.gif)
         
 
 ## Despliegue de Apache2
